@@ -18,11 +18,30 @@ Preview the prototype.
 
 ## DESIGN SCREENS:
 
+![output](./static/img/bs1.png)
+
+![output](./static/img/bs2.png)
+
+![output](./static/img/bs3.png)
+
+![output](./static/img/bs4.png)
+
 
 ## WIREFRAME:
+![output](./static/img/bs5.png)
 
 
 ## PROTOTYPE:
 
+![output](./static/img/bs6.png)
+
+![output](./static/img/bs7.png)
+
+![output](./static/img/bs9.png)
+
+![output](./static/img/bs10.png)
+
 
 ## RESULT:
+
+         Thus a uxdesignproduct website is designed and wireframe for a product development companywebsite
